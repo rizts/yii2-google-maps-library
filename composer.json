@@ -27,7 +27,7 @@
     "require": {
         "ext-json": "*",
         "yiisoft/yii2": ">=2.0.13",
-        "guzzlehttp/guzzle": "dev-master",
+        "guzzlehttp/guzzle": "6.5.3",
         "ext-SimpleXML": "*"
     },
     "require-dev": {
